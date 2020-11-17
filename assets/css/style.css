@@ -118,18 +118,6 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):hover {
 .nav-tabs .nav-link:not(.active) {
   color: #232323;
 }
-.alert-success {
-  background-color: #70c770;
-}
-.alert-info {
-  background-color: #47b5ed;
-}
-.alert-warning {
-  background-color: #ffe161;
-}
-.alert-danger {
-  background-color: #ff9966;
-}
 .gallery-filter li.active .btn {
   background-color: #6592e6;
   border-color: #6592e6;
